@@ -17,14 +17,14 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** 𝙆𝙄𝙍𝙈𝘼𝘿𝘼 **\n\n"
+        f"** 𓆩𝗠𝗥𓆪 🇸 𝗛 𝗜 𝗡 𝗖 𝗛 𝗔 𝗡❤️‍🔥 **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
         f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [|| ˹X1BOTS˼ ||](t.me/NLTRIDE)\n"
-        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝙆𝙄𝙍𝙈𝘼𝘿𝘼](t.me/X1OWNER)\n"
-        f"└• **𝐌ᴀsᴛᴇʀ**: [𝙆𝙄𝙍𝙈𝘼𝘿𝘼](t.me/X1OWNER)"        
+        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𓆩𝗠𝗥𓆪 🇸 𝗛 𝗜 𝗡 𝗖 𝗛 𝗔 𝗡❤️‍🔥](t.me/X1OWNER)\n"
+        f"└• **𝐌ᴀsᴛᴇʀ**: [𓆩𝗠𝗥𓆪 🇸 𝗛 𝗜 𝗡 𝗖 𝗛 𝗔 𝗡❤️‍🔥](t.me/X1OWNER)"        
     )
 
 @Client.on_message(
